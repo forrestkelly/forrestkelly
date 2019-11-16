@@ -1,2 +1,3 @@
 name: Forrest Kelly, Digital Marketing Consultant
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
